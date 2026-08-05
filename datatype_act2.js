@@ -4,8 +4,8 @@ const browserVersion = 'Chrome';
 function getBrowserVersion(){
 
     if(browserVersion == 'Chrome'){
-       var browserVersion = 'firefox';
-       //let browserVersion = 'firefox';
+       //var browserVersion = 'firefox';
+       let browserVersion = 'firefox';
        //const browserVersion
 
        console.log('inside block',browserVersion);
